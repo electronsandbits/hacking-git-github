@@ -19,6 +19,16 @@ Confirm that you set up git properly
 
 https://git-scm.com/book/en/v2
 
+http://think-like-a-git.net/
+
+https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+
+
+
+
+
+
+
 #2. Books
 
 Git Essentials 2nd by Ferdinando Santacroce 
