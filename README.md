@@ -1,4 +1,4 @@
-# hacking-git-github
+# Hacking Git & Github
 This repository contains materials and resources about Git &amp; GitHub
 
 Set Up Git
@@ -12,3 +12,10 @@ Set Up Git
 Confirm that you set up git properly
 
 - git config --list
+
+
+# Core Reading
+
+https://git-scm.com/book/en/v2
+
+https://www.goodreads.com/book/show/25533645-git-essentials
